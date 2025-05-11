@@ -1,4 +1,4 @@
 hallo nama saya Hikmal saya sedang belajar bahasa pemograman javascript
 - saya sedang membuat projects dengan system arhitecture nodejs
 - Membuat suatu platfrom pengolahan sebuah data
-- Membuat forum diskusi
+
