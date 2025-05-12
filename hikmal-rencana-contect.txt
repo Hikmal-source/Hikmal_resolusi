@@ -5,3 +5,6 @@ Saya akan belajar Nodejs
 saya akan belajar typescript
 saya akan belajar CSS dan SASS
 saya akan belajar HTML5 dan SEOhtml
+
+Client Fitur 1 
+saya akan belajar PHP dan framework Laravel
