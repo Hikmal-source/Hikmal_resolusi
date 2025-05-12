@@ -1,10 +1,11 @@
 Rencana contect hikmal
-Saya akan belajar Javascript dasar
 saya akan belajar Javsascript OOP
 Saya akan belajar Nodejs
 saya akan belajar typescript
 saya akan belajar CSS dan SASS
 saya akan belajar HTML5 dan SEOhtml
 
-Client Fitur 1 
-saya akan belajar PHP dan framework Laravel
+
+Saya fitur 2
+saya akan belajar Javascript Reacts 
+saya akan belajar Javascript DOM
